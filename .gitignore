@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Keystores (never commit real keys)
+*.keystore
+*.jks
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab / misc
+__pycache__/
+*.pyc

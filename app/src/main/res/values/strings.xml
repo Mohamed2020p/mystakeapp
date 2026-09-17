@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStake</string>
+    <string name="error_title">Connection problem</string>
+    <string name="error_no_connection">Couldn\'t load the page. Check your connection and try again.</string>
+    <string name="error_ssl">Secure connection failed. Please try again.</string>
+    <string name="retry">Try again</string>
+    <string name="test_chip_text">TEST MODE · your test page</string>
+    <string name="test_chip_original">ORIGINAL</string>
+</resources>
